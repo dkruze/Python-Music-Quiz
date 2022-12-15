@@ -1,4 +1,4 @@
-#File: Final Project Main
+#File: Music Quiz Main
 #Author: Daniel Kruze
 #Date: Nov 24 2021
 
